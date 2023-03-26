@@ -26,7 +26,6 @@ local MenuToggle = Instance.new("TextLabel")
 local UICorner_7 = Instance.new("UICorner")
 local Keybind = Instance.new("TextBox")
 local UICorner_8 = Instance.new("UICorner")
-local script1 = "Aim Viewer"
 
 --Properties:
 
